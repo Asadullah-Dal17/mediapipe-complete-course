@@ -12,6 +12,8 @@ complete course on mediapipe
 - [ ] Face Mesh Detection
     - Conncepts 
     - Lamdmark Drawing
+    - Cropping Custom Shape
+    - Masking out the shape
      
 - [ ] Hand Detection
     - Detecting Landmark
