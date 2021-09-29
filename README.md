@@ -1,18 +1,20 @@
 # mediapipe-crash-course
-complete course on mediapipe
+complete course on mediapipe, here I am going to use numpy instead of list to store landmarks, in order to makes things faster, we will use list-comprehension instead conventional for loops, reason speed again.
+this course is free and will be available for everyone on youtube.
 
 ## Mediapipe Course
 
+### Content List 
 
 - [ ] Introduction about Mediapipe
 - [ ] Face Detection
     - Face Blur
     - Face Cropping 
-     
+
 - [ ] Face Mesh Detection
-    - Conncepts 
-    - Lamdmark Drawing
-    - Cropping Custom Shape
+    - Concepts 
+    - Landmarks Detection and Drawing
+    - Cropping Custom Shape (Face Oval, Eyes etc)
     - Masking out the shape
      
 - [ ] Hand Detection
