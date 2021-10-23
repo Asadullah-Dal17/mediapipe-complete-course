@@ -1,6 +1,7 @@
 # mediapipe-crash-course
 complete course on mediapipe, here I am going to use numpy array instead of list to store landmarks, in order to makes things faster, we will use "list-comprehension" instead conventional "for loops", reason speed again.
-this course is free and will be available for everyone on youtube.
+this course is free and will be available for everyone on youtube.  <a href="https://www.youtube.com/c/aiphile">  <img alt="AiPhile Youtube" src="https://user-images.githubusercontent.com/66181793/131223988-882d53a0-4882-468f-9bd7-46b46466baae.png"  width="20"> </a>
+
 
 ## Mediapipe Course
 
