@@ -8,26 +8,27 @@ this course is free and will be available for everyone on youtube.  <a href="htt
 ### Content List 
 
 - [ ] Introduction about Mediapipe
-- [ ] Face Detection
+    - Presentation   
+- [ ] Face 👨 Detection
     - Face Blur
     - Face Cropping 
 
-- [ ] Face Mesh Detection
+- [ ]  Face 👨 Mesh Detection
     - Concepts 
     - Landmarks Detection and Drawing
     - Cropping Custom Shape (Face Oval, Eyes etc)
     - Masking out the shape
      
-- [ ] Hand Detection
+- [ ] Hand 🙌 Detection
     - Detecting Landmark
     - Finding Angles
       
-- [ ] Pose Estimation
+- [ ] Pose :lotus_position_man: Estimation
     - Detection and Drawing Landmarks 
     - Finding Angles for Joints
-- [ ] Selfie Segmentation
-    - Getting mask, adding Background  
-
+- [ ] Selfie 🤳 Segmentation 
+    - Getting mask
+    - Changing Background color🔴🟢🔵
 
 If you like the work, then please give it, star, you can also watch my Video Tutorial, on Computer Vision Topics over YouTube Channel <a href="https://www.youtube.com/c/aiphile">  <img alt="AiPhile Youtube" src="https://user-images.githubusercontent.com/66181793/131223988-882d53a0-4882-468f-9bd7-46b46466baae.png"  width="20"> </a>
 
