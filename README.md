@@ -29,7 +29,7 @@ this course is free and will be available for everyone on youtube.  <a href="htt
     - Getting mask, adding Background  
 
 
-If you like the work, then please give it, star, you can also watch my Video Tutorial Computer Vision Topics on YouTube Channel <a href="https://www.youtube.com/c/aiphile">  <img alt="AiPhile Youtube" src="https://user-images.githubusercontent.com/66181793/131223988-882d53a0-4882-468f-9bd7-46b46466baae.png"  width="20"> </a>
+If you like the work, then please give it, star, you can also watch my Video Tutorial, on Computer Vision Topics over YouTube Channel <a href="https://www.youtube.com/c/aiphile">  <img alt="AiPhile Youtube" src="https://user-images.githubusercontent.com/66181793/131223988-882d53a0-4882-468f-9bd7-46b46466baae.png"  width="20"> </a>
 
 
 If You have any Question or need help in CV Project, Feel free to DM on Instagram  <a href="https://www.instagram.com/aiphile17/">  <img alt="Instagram" src="https://user-images.githubusercontent.com/66181793/131223931-32d84c10-88b4-4cd6-8eb8-89f06c3b5b51.png"  width="20"> </a>
